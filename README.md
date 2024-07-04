@@ -361,6 +361,8 @@ The structure of a paged response is:
 
 ## Development
 
+Nota: Para que la migracion de datos se realice correctamente settear la env var DEPLOY_NAME como production
+
 **Setup the project**
 
 To setup the project please follow this simple steps:
